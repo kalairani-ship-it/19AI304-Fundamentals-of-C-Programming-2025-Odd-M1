@@ -29,6 +29,8 @@ To build a C program that prints integer, float,character, and string literals o
    #include <stdio.h>
 int main() { int a = 100; float b = 12.5; char c = 'A'; char str[] = "Hello C"; printf("Integer literal value: %d\n", a); printf("Float literal value: %.2f\n", b); printf("Character literal value: %c\n", c); printf("String literal value: %s\n", str); return 0; }
 # Output:
+<img width="1247" height="447" alt="m1" src="https://github.com/user-attachments/assets/54fd7c56-36d0-45d4-af3e-ce5d9c7a7a83" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -61,6 +63,8 @@ Thus, the program was implemented and executed successfully, and the required ou
 # Program:
   #include <stdio.h> #define PI 3.14 int main() { const int MAX = 100; printf("Value of macro constant PI = %.2f\n", PI); printf("Value of constant variable MAX = %d\n", MAX); return 0; }
 # Output:
+<img width="1261" height="360" alt="m2" src="https://github.com/user-attachments/assets/dd14de0a-dd45-48fd-b668-221d48bbdaf4" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -90,6 +94,8 @@ float b = 10.5f;
 double c = 123.456; char d = 'C';
 printf("Integer value: %d\n", a); printf("Float value: %.2f\n", b); printf("Double value: %.3lf\n", c); printf("Character value: %c\n", d); return 0; }
 # Output:
+<img width="1105" height="387" alt="m3" src="https://github.com/user-attachments/assets/9ea8f288-b5f8-4e54-bb4d-c661539db5ce" />
+
 # Result: 
 
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd
@@ -152,6 +158,8 @@ printf("Bitwise NOT (~a) = %d\n", ~a);
 return 0;
 }
 # Output:
+<img width="372" height="525" alt="m5" src="https://github.com/user-attachments/assets/db65b54d-afba-42be-b0a5-e88901efa795" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -214,9 +222,9 @@ printf("'%c' is a Special Symbol\n", ch);
 
 return 0;
 }
-
-
 # Output:
+<img width="402" height="210" alt="m6" src="https://github.com/user-attachments/assets/7202e24d-def7-4766-93a1-1309b2ee06f6" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
